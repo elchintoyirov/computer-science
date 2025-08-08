@@ -1,0 +1,40 @@
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+
+# C/C++ build files
+*.exe
+*.out
+*.o
+*.obj
+*.log
+*.a
+*.so
+*.dll
+*.pdb
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+Makefile.in
+build/
+cmake-build-*/
+
+# VSCode
+.vscode/
+
+# JetBrains / CLion
+.idea/
+*.iml
